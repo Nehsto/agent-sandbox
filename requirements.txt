@@ -1,0 +1,5 @@
+Pillow
+Adafruit-Blinka
+adafruit-circuitpython-rgb-display
+bleak>=1.0,<4
+dbus-fast>=2.0; sys_platform == "linux"

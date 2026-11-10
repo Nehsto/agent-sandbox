@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+test-pattern.png
+
+# Local agent configuration and credentials
+.aws/
+.codex/
+.agents/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime status and hardware diagnostic captures
+agent-state.json
+bluetooth-activity.json
+reports/
